@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/react-movies-using-firebase/static/css/main.e54bf382.css",
-    "main.js": "/react-movies-using-firebase/static/js/main.be48ca25.js",
-    "index.html": "/react-movies-using-firebase/index.html",
-    "main.e54bf382.css.map": "/react-movies-using-firebase/static/css/main.e54bf382.css.map",
-    "main.be48ca25.js.map": "/react-movies-using-firebase/static/js/main.be48ca25.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e54bf382.css",
-    "static/js/main.be48ca25.js"
-  ]
+  "main.css": "/react-movies-using-firebase/static/css/main.62b921c4.chunk.css",
+  "main.js": "/react-movies-using-firebase/static/js/main.be413247.chunk.js",
+  "main.js.map": "/react-movies-using-firebase/static/js/main.be413247.chunk.js.map",
+  "static/js/1.42ee0468.chunk.js": "/react-movies-using-firebase/static/js/1.42ee0468.chunk.js",
+  "static/js/1.42ee0468.chunk.js.map": "/react-movies-using-firebase/static/js/1.42ee0468.chunk.js.map",
+  "runtime~main.js": "/react-movies-using-firebase/static/js/runtime~main.29b98461.js",
+  "runtime~main.js.map": "/react-movies-using-firebase/static/js/runtime~main.29b98461.js.map",
+  "static/css/main.62b921c4.chunk.css.map": "/react-movies-using-firebase/static/css/main.62b921c4.chunk.css.map",
+  "index.html": "/react-movies-using-firebase/index.html",
+  "precache-manifest.684c4e9516e3dff1f90a5760ace5d431.js": "/react-movies-using-firebase/precache-manifest.684c4e9516e3dff1f90a5760ace5d431.js",
+  "service-worker.js": "/react-movies-using-firebase/service-worker.js"
 }
